@@ -14,5 +14,5 @@ pip install -r requirements.txt
 ```
 
 ## Results
-Coming soon...
-I just need to finish it first, lol.
+![Result1](images/results1.png)
+![Result2](images/result2.png)
