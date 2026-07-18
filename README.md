@@ -14,5 +14,5 @@ pip install -r requirements.txt
 ```
 
 ## Results
-![Result1](images/results1.png)
+![Result1](images/result1.png)
 ![Result2](images/result2.png)
